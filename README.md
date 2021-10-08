@@ -1,4 +1,4 @@
-# Homework Assignment 16 - Professional Materials
+# Homework Assignment 16 - Professional Portfolio Update 2
 
 ## Your Task:
 This assignment required us to revisit the Portfolio we originally made in Homework Assignment #2 (https://github.com/egraham96/Professional-Portfolio/) and then again updated in Homework Assignment #8 (https://github.com/egraham96/Portfolio-Update-1). In Homework Assignment #2, we were asked to built a Portfolio that would showcase our completed applications. At the time, our website had to be responsive to different screen sizes, had to include working links & pseudoclasses such as hover and working images. Since completing Homework Assignment #2 and #8, I have learned Javascript, jQuery, jQuery UI, Bootstrap, Node.JS, and Web APIS--these new languages are reflected in the 4 projects I added to the Portfolio. I also added screenshots & links to the 4 new projects. I added my Resume and links to my GitHub & LinkedIn profile. I updated the styling of the page. I made the ReadMe for this Portfolio more comprehensive. 
